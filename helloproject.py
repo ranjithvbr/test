@@ -1,2 +1,1 @@
-
-long(5.55)
+print'Hello World!'
