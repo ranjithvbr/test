@@ -1,0 +1,6 @@
+dam = {'name':'ranjith','age':21,'clg':'dmi'}
+print dam['name']
+dam['branch']='mech'
+print dam['branch']
+del dam['name']
+print dam['name']
